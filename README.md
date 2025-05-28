@@ -5,6 +5,7 @@ Whether you're a student, a data enthusiast, or a developer brushing up on skill
 
 🔍 What's Inside:
 ✅ Foundations – SELECT, WHERE, ORDER BY, GROUP BY
+
 🔄 Joins Demystified – INNER, LEFT, RIGHT, FULL joins with visuals
 🧠 Subqueries & CTEs – Query like a pro
 ⚙️ Advanced Concepts – Indexing, Views, Triggers, Stored Procedures
