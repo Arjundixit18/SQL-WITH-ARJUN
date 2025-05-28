@@ -7,14 +7,20 @@ Whether you're a student, a data enthusiast, or a developer brushing up on skill
 ✅ Foundations – SELECT, WHERE, ORDER BY, GROUP BY
 
 🔄 Joins Demystified – INNER, LEFT, RIGHT, FULL joins with visuals
-🧠 Subqueries & CTEs – Query like a pro
-⚙️ Advanced Concepts – Indexing, Views, Triggers, Stored Procedures
-📁 Practice Problems – With clear explanations & solutions
-🌐 Real-World Use Cases – Analytics, reporting, and app backend queries
 
+🧠 Subqueries & CTEs – Query like a pro
+
+⚙️ Advanced Concepts – Indexing, Views, Triggers, Stored Procedures
+
+📁 Practice Problems – With clear explanations & solutions
+
+🌐 Real-World Use Cases – Analytics, reporting, and app backend queries
 
 🚀 Ideal For:
 🧑‍💻 Aspiring developers
- Data analysts & engineers
+
+📈 Data analysts & engineers
+
 🎓 CS/IT students
+
 💼 Job/interview preparation
