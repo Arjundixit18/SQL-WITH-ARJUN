@@ -4,6 +4,7 @@ Welcome to your one-stop SQL vault! This repository is a well-organized, beginne
 Whether you're a student, a data enthusiast, or a developer brushing up on skills — this is the go-to collection for structured learning, hands-on examples, and practical use cases.
 
 🔍 What's Inside:
+
 ✅ Foundations – SELECT, WHERE, ORDER BY, GROUP BY
 
 🔄 Joins Demystified – INNER, LEFT, RIGHT, FULL joins with visuals
@@ -17,6 +18,7 @@ Whether you're a student, a data enthusiast, or a developer brushing up on skill
 🌐 Real-World Use Cases – Analytics, reporting, and app backend queries
 
 🚀 Ideal For:
+
 🧑‍💻 Aspiring developers
 
 📈 Data analysts & engineers
