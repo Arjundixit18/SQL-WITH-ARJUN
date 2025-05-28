@@ -1,0 +1,98 @@
+🔢 What is Data?
+Data is raw information — facts, figures, or values that don’t make much sense on their own.
+
+📌 Example:
+
+Customer ID: 1023
+
+Shipping Date: 2025-05-28
+
+Think of data as building blocks — we need to organize and process them to extract meaning.
+
+💡 What is Information?
+Information is data that has been processed or structured to be useful.
+It’s the "meaningful version" of data.
+
+📌 Example:
+
+“Customer ID 1023 placed an order on 2025-05-28 from Canada.”
+
+Now it's no longer just numbers — it's useful insight!
+
+🏛️ What is a Database?
+A Database is a collection of organized, related, and structured data that can be easily accessed, managed, and updated.
+
+🔹 It’s like a digital filing cabinet for your information.
+
+🔗 Types of Databases
+📘 Relational Database (SQL)
+Stores data in tables (rows and columns)
+
+Uses SQL (Structured Query Language)
+
+Examples: MySQL, PostgreSQL, Oracle, SQL Server
+
+📦 NoSQL Database (Non-relational)
+Used for large-scale, unstructured, or flexible data
+
+Types:
+
+Key-Value (like a dictionary) → Redis, DynamoDB
+
+Document Store → MongoDB
+
+Graph Store → Neo4j
+
+Column Store → Cassandra
+
+📊 SQL Table Structure
+Field Name	Description	Example Value
+Customer ID	Primary Key (unique)	1023
+First Name	Attribute/Column	Alice
+Last Name	Attribute/Column	Johnson
+Country	Column Value	USA
+
+🧠 In SQL:
+
+Row = Record = Tuple
+
+Column = Field = Attribute
+
+Cell = Individual data item
+
+🧰 Core SQL Commands
+🏗️ DDL – Data Definition Language
+Used to define and structure your database and tables.
+
+CREATE TABLE – Make a new table
+
+ALTER TABLE – Modify table structure
+
+DROP TABLE – Delete a table
+
+🛠️ DML – Data Manipulation Language
+Used to work with the actual data.
+
+INSERT INTO – Add new data
+
+SELECT – Fetch data
+
+UPDATE – Modify data
+
+DELETE – Remove data
+
+🔐 DCL – Data Control Language
+Used to control permissions.
+
+GRANT – Give access to users
+
+REVOKE – Take away access
+
+🔁 TCL – Transaction Control Language
+Used to manage changes during a transaction.
+
+COMMIT – Save changes
+
+ROLLBACK – Undo changes
+
+SAVEPOINT – Mark a save point during a transaction
