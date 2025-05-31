@@ -1,0 +1,12 @@
+# SQL Statement / Query
+
+-- SELECT CUSTOMER DATA (Comment)
+
+SELECT first_name , last_name
+FROM customers
+WHERE country = 'Italy' AND Score < 500
+
+# Clauses :- Select 
+# Keywords :- FROM , WHERE 
+# Identifers :- first_name , last_name
+# Operators :- = , <
